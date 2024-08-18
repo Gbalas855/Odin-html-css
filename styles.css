@@ -105,10 +105,11 @@ header a {
 .info-container {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin-top: 60px;
     padding: 0 40px 0 40px;
     height: 450px;
-    
+    gap: 20px;
 }
 
 .info-image-container {
@@ -122,7 +123,7 @@ header a {
     text-align: center;
     color: #1F2937;
     font-size: 18px;
-    margin-top: 8px;
+    margin-top: 12px;
     filter: contrast(80%);
 }
 
