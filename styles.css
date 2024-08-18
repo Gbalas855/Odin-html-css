@@ -17,7 +17,6 @@ header {
     background-color: #1F2937;
     justify-content: space-around;
     padding: 8px;
-    width: 100%;
 }
 
 .header-logo {
@@ -173,14 +172,14 @@ button:hover {
     font-size: 18px;
 }
 
-footer {
+.call-action-section {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 400px;
 }
 
-.footer-container {
+.call-action-container {
     display: flex;
     align-items: center;
     background-color: #3882F6;
@@ -190,24 +189,24 @@ footer {
     justify-content: space-around;
 }
 
-.footer-content {
+.call-action-content {
     display: flex;
     gap: 220px;
 }
 
-.footer-text h2 {
+.call-action-text h2 {
     color: #F9FAF8;
     font-size: 24px;
     margin-bottom: 2px;
 }
 
-.footer-text p {
+.call-action-text p {
     color: #F9FAF8;
     font-size: 16px;
     filter: contrast(80%);
 }
 
-.footer-content button {
+.call-action-content button {
     width: 120px;
     padding: 6px;
     align-self: flex-end;
