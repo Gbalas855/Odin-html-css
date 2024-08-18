@@ -69,7 +69,7 @@ header a {
 
 .hero-image {
     width: 760px;
-    height: 400px;
+    height: 440px;
 }
 
 .hero-image img {
@@ -107,8 +107,8 @@ header a {
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 60px;
-    padding: 0 40px 0 40px;
-    height: 450px;
+    padding: 0 40px 100px 40px;
+    height: 100%;
     gap: 20px;
 }
 
@@ -116,7 +116,8 @@ header a {
     display: flex;
     flex-direction: column;
     margin-left: 50px;
-    width: 320px;
+    width: 340px;
+    align-items: center;
 }
 
 .info-image-container p {
@@ -132,4 +133,33 @@ header a {
     height: 300px;
     border-radius: 10px;
     box-shadow: 2px 2px 9px -1px rgba(0,0,0,0.72);
+}
+
+
+.quote-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+    height: 400px;
+    padding: 40px;
+}
+
+.quote-content {
+    width: 770px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+
+.author {
+    margin-top: 10px;
+    text-align: end;
+    font-weight: bold;
+    font-size: 18px;
 }
