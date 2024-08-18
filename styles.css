@@ -38,6 +38,11 @@ header a {
     text-decoration: none;
 }
 
+header a:hover {
+    text-decoration: underline #F9FAF8;
+    text-underline-offset: 6px;
+}
+
 .hero {
     display: flex;
     background-color: #1F2937;
@@ -80,7 +85,7 @@ header a {
 
 .hero-text button {
     margin-top: 20px;
-    width: 100px;
+    width: 120px;
     padding: 6px;
     background-color: #3882F6;
     color: #F9FAF8;
@@ -88,6 +93,11 @@ header a {
     border-radius: 4px;
     font-weight: bold;
     font-size: 16px;
+}
+
+button:hover {
+    opacity:0.8;
+    cursor: pointer;
 }
 
 .info-text {
@@ -135,7 +145,6 @@ header a {
     box-shadow: 2px 2px 9px -1px rgba(0,0,0,0.72);
 }
 
-
 .quote-container {
     display: flex;
     align-items: center;
@@ -146,16 +155,16 @@ header a {
 }
 
 .quote-content {
-    width: 770px;
+    width: 800px;
 }
 
 .quote {
+    line-height: 45px;
     font-size: 36px;
-    font-weight: lighter;
+    font-weight: 300;
     font-style: italic;
     color: #1F2937;
 }
-
 
 .author {
     margin-top: 10px;
