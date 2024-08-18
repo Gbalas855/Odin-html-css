@@ -217,3 +217,19 @@ button:hover {
     font-weight: bold;
     font-size: 15px;
 }
+
+
+footer {
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    background-color: #1F2937;
+    align-items: center;
+}
+
+
+.footer-text {
+    color: #F9FAF8;
+    font-size: 16px;
+    font-weight: 300;
+}
