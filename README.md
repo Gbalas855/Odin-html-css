@@ -10,11 +10,11 @@ This website showcases my skills in HTML and CSS. It's a simple, static website 
 
 ### Getting Started
 
-You can view the live demo of the website [here](https://gbalas855.github.io/odin-html-css/).
+You can view the live demo of the website [here](https://gbalas855.github.io/landing-page-html-css).
 
 To view the website locally:
 
-1. Clone the repository: `git clone https://github.com/Gbalas855/odin-html-css.git`
+1. Clone the repository: `git clone https://github.com/Gbalas855/landing-page-html-css.git`
 2. Open the `index.html` file in your web browser.
 
 ### Files
@@ -31,11 +31,11 @@ Trang web này giới thiệu kỹ năng của tôi trong việc sử dụng HTM
 
 ### Bắt Đầu
 
-Bạn có thể xem bản demo trực tiếp của trang web [tại đây](https://gbalas855.github.io/odin-html-css/).
+Bạn có thể xem bản demo trực tiếp của trang web [tại đây](https://gbalas855.github.io/landing-page-html-css).
 
 Để xem trang web trên máy tính cá nhân:
 
-1. Sao chép kho lưu trữ: `git clone https://github.com/Gbalas855/odin-html-css.git`
+1. Sao chép kho lưu trữ: `git clone https://github.com/Gbalas855/landing-page-html-css.git`
 2. Mở file `index.html` trong trình duyệt web của bạn.
 
 ### Các File
